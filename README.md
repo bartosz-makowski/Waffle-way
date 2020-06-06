@@ -21,7 +21,7 @@ Project of a website to promote services and products of the Waffle Way a waffle
   * **Technologies Used** :computer:	
     * Languages
     * Tools & Libraries
-  * **Deployment**
+  * **Deployment** :surfer:
   * **Acknowledgments** :clap:
   
 ## UX ( User Experience)
@@ -122,7 +122,7 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 * <a href="https://fonts.google.com/">Google Fonts</a>
 * <a href="https://balsamiq.com/">Balsamiq</a>
 
-### Deployment:
+### Deployment: :surfer:
 
 
 ### Acknowledgments: :clap:
