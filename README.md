@@ -22,6 +22,7 @@ Project of a website to promote services and products of the Waffle Way a waffle
     * Languages
     * Tools & Libraries
   * **Deployment**
+  * **Acknowledgments** :clap:
   
 ## UX ( User Experience)
 ### Project Goals :jigsaw:	
@@ -123,6 +124,8 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 
 ### Deployment:
 
+
+### Acknowledgments: :clap:
 
   
   
