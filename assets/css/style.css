@@ -11,6 +11,14 @@ body {
     display: inline-block;
 }
 
+.hero-image {
+    background: url(../images/hero-waffle.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 25rem;
+    width: 80%;
+}
+
 
 
 
