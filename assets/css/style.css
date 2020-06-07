@@ -45,5 +45,12 @@ body {
     padding-top: 5px;
 }
 
+.social-icons a i:focus {
+    color: #f42b03;
+    outline: none;
+}
 
+.social-icons a i:hover {
+    color: #f42b03;
+}
 
