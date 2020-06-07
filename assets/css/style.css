@@ -54,3 +54,18 @@ body {
     color: #f42b03;
 }
 
+
+/*----------------------------------------------------------------@media querries*/
+
+@media(max-width: 920px) {
+    .social-icons a i {
+        height: 2.3rem;
+        width: 2.3rem;
+    }
+}
+
+@media(max-width: 920px) {
+    .social-icons {
+        font-size: 1.8rem;
+    }
+}
