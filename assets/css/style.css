@@ -18,7 +18,13 @@ body {
     height: 25rem;
     width: 80%;
 }
-
+.logo {
+    background: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 10rem;
+    min-width: 10rem;
+}
 
 
 
