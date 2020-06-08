@@ -11,6 +11,10 @@ body {
     display: inline-block;
 }
 
+.nav-linl, .active {
+    text-decoration: underline black;
+}
+
 .hero-image {
     background: url(../images/hero-waffle.JPG);
     background-size: cover;
