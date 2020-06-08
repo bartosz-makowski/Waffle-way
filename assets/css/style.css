@@ -11,6 +11,10 @@ body {
     display: inline-block;
 }
 
+.my-navbar {
+    justify-content: flex-end;
+}
+
 .nav-linl, .active {
     text-decoration: underline black;
 }
