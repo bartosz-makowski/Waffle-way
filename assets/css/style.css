@@ -7,12 +7,9 @@ body {
 
 
 /*----------------------------------------------------------------Header*/
+
 .header__navbar {
     display: inline-block;
-}
-
-.my-navbar {
-    justify-content: flex-end;
 }
 
 .nav-linl, .active {
@@ -33,10 +30,6 @@ body {
     min-height: 10rem;
     min-width: 10rem;
 }
-
-
-
-
 
 
 /*----------------------------------------------------------------Footer*/
