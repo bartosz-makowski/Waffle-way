@@ -21,6 +21,12 @@ body {
 
 /* About */
 
+#about-img {
+    border-radius: 50%;
+    max-width: 120%;
+    height: auto;
+    background-size: contain;
+}
 
 /* Footer */
 
