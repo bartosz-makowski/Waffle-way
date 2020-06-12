@@ -28,6 +28,12 @@ body {
     background-size: contain;
 }
 
+.about-list li {
+    background-color: #fafafa;
+    border: none;
+
+}
+
 /* Footer */
 
 .social-links {
