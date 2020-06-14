@@ -29,7 +29,6 @@ body {
     font-weight: bold;
 }
 
-
 .about-img {
     border-radius: 17%;
     max-width: 120%;
@@ -55,7 +54,6 @@ body {
 }
 
 
-
 /* Footer */
 
 .social-links {
@@ -66,6 +64,7 @@ body {
 .social-icons {
     font-size: 3rem;    
 }
+
 /* taken from whiskey landing page module at CI*/
 .social-icons a i {
     height: 3.5rem;
