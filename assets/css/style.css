@@ -21,6 +21,11 @@ body {
 
 /* About */
 
+
+.about-container {
+    margin-bottom: 35px;
+}
+
 .about-header {
     text-align: center;
     margin-top: 40px;
@@ -55,6 +60,7 @@ body {
 
 
 /* Footer */
+
 
 .social-links {
     text-align: center;
