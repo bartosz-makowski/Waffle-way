@@ -29,13 +29,11 @@ body {
 }
 
 
-}
-
-#about-img {
-    border-radius: 50%;
+.about-img {
+    border-radius: 17%;
     max-width: 120%;
     height: auto;
-    background-size: contain;
+    background-size: cover;
 }
 
 .about-list li {
