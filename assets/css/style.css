@@ -63,6 +63,16 @@ body {
 }
 
 
+/* Locations */
+
+
+.img-locations {
+    max-width: 100%;
+    max-height: 200px;
+    border-radius: 17%;  
+}
+
+
 /* Footer */
 
 
