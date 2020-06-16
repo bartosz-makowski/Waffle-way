@@ -58,6 +58,10 @@ body {
     text-align: right;
 }
 
+.sm-list {
+    text-align: center;
+}
+
 .about-list li h4:hover {
     color:#ec7505;
 }
