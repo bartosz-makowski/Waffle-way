@@ -19,6 +19,10 @@ body {
     max-height: 500px;
 }
 
+#hero-image {
+    padding-right: 0;
+    padding-left: 0;
+}
 /* About */
 
 
