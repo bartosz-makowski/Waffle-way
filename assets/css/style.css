@@ -85,6 +85,10 @@ body {
     font-weight: bold;
 }
 
+.location-div {
+    text-align: center;
+}
+
 /* Reviews */
 
 .reviews-container p {
