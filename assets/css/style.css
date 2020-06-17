@@ -136,6 +136,15 @@ body {
 }
 
 
+/* Gallery */
+
+/* taken from I love running module in CSS fundamentals */ 
+#photos {
+    column-count: 2;
+    column-gap: 0;
+}
+
+
 /* @media querries */
 
 /* @media Header */
