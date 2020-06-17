@@ -14,6 +14,9 @@ body {
     font-weight: bold;
 }
 
+.my-header i {
+    color:#ec7505;
+}
 
 /* Header */
 
