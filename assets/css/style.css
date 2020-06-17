@@ -17,6 +17,7 @@ body {
 
 /* Header */
 
+
 .logo {
     max-width: 100%;
     height: auto;
@@ -31,6 +32,8 @@ body {
     padding-right: 0;
     padding-left: 0;
 }
+
+
 /* About */
 
 
@@ -87,9 +90,12 @@ body {
 
 .location-div {
     text-align: center;
+    padding-bottom: 30px;
 }
 
+
 /* Reviews */
+
 
 .reviews-container p {
     font-size: 20px;
@@ -132,7 +138,8 @@ body {
 
 /* @media querries */
 
-/* Header */
+/* @media Header */
+
 
 @media(max-width: 320px) {
     .logo {
