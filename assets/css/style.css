@@ -152,6 +152,15 @@ body {
 }
 
 
+/* Modal */
+
+.my-btn {
+    background-color:#ec7505;
+    color: #fafafa;
+    font-weight: bold;
+}
+
+
 /* @media querries */
 
 /* @media Header */
