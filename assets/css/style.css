@@ -160,6 +160,10 @@ body {
     font-weight: bold;
 }
 
+.my-btn:hover {
+    color: #fafafa;
+    background-color: #4e598c;
+}
 
 /* @media querries */
 
