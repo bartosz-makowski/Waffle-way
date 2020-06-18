@@ -171,6 +171,9 @@ body {
     color: rgba(0,0,0,.5);
 }
 
+.nav-btn:hover {
+    color: rgba(0,0,0,.7);
+}
 
 
 /* @media querries */
