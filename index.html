@@ -9,11 +9,7 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <title>Waffle Way</title>
 </head>
-<body> 
-    <!-- Button trigger modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#staticBackdrop">
-    </button>
-
+<body>
 <!-- Modal -->
     <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="staticBackdropLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
@@ -47,10 +43,8 @@
                             <input type="date" name="date" class="form-control" id="date" placeholder="Date of the event" required>
                         </div>
                         <button type="submit" class="btn my-btn">Submit</button>
+                        <button type="button" class="btn my-btn" data-dismiss="modal">Close</button>
                     </form>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn my-btn" data-dismiss="modal">Done</button>
                 </div>
             </div>
         </div>
@@ -70,7 +64,7 @@
                             <a class="nav-item nav-link" href="#about">About us</a>
                             <a class="nav-item nav-link" href="#locations">Locations</a>
                             <a class="nav-item nav-link" href="gallery.html">Gallery</a>
-                            <a class="nav-item nav-link" href="#">Contact</a>
+                            <button type="button" class="btn nav-btn" data-toggle="modal" data-target="#staticBackdrop">Contact</button>
                         </div>
                     </div>
                 </nav>
