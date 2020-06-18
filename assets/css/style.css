@@ -109,6 +109,10 @@ body {
 
 /* Footer */
 
+.footer-container {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
 
 .social-links {
     text-align: center;
