@@ -152,7 +152,7 @@ body {
 }
 
 
-/* Modal */
+/* Buttons */
 
 .my-btn {
     background-color:#ec7505;
@@ -163,6 +163,16 @@ body {
 .my-btn:hover {
     color: #fafafa;
     background-color: #4e598c;
+}
+
+.nav-btn {
+    padding: 8px;
+    border: 0;
+    color: rgba(0,0,0,.5);
+}
+
+.nav-btn:hover {
+    color: rgba(0,0,0,.7);
 }
 
 /* @media querries */
