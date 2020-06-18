@@ -188,6 +188,12 @@ body {
     }
 }
 
+@media(max-width: 767px) {
+    .nav-btn {
+        padding: 8px 0;
+    }
+}
+
 /* Footer */
 @media(max-width: 920px) {
     .social-icons a i {
@@ -201,3 +207,4 @@ body {
         font-size: 1.8rem;
     }
 }
+
