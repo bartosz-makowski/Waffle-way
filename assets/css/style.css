@@ -150,15 +150,6 @@ body {
 
 /* Gallery */
 
-/* taken from I love running module in CSS fundamentals */ 
-#photos {
-    column-count: 2;
-    column-gap: 0;
-/*--------------------*/    
-    padding-bottom: 35px;
-    margin-bottom: 25px;
-}
-
 
 /* Buttons */
 
