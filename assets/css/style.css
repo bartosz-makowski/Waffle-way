@@ -51,6 +51,7 @@ body {
     max-width: 100%;
     height: auto;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .about-list li {
@@ -107,6 +108,16 @@ body {
     font-weight: bold;
 }
 
+.review-img {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    max-height: auto;
+    max-width: 20%;
+    clear: both;
+         
+}
 
 /* Footer */
 
