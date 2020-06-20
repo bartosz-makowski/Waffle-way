@@ -107,6 +107,9 @@ body {
     font-weight: bold;
 }
 
+.blockquote-footer {
+    font-size: 100%;
+}
 
 /* Footer */
 
