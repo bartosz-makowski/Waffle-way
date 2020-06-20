@@ -47,7 +47,7 @@ body {
 
 .about-img {
     border-radius: 50%;
-    max-width: 120%;
+    max-width: 100%;
     height: auto;
     background-size: cover;
 }
