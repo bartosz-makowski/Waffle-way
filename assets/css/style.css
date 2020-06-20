@@ -4,7 +4,6 @@ body {
     font-family: "Open Sans", sans-serif;
     background-color: #fafafa;
     font-size: 16px;
-    line-height: 1.5rem;
 }
 
 .my-header {
@@ -104,20 +103,10 @@ body {
 
 
 .reviews-container p {
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: bold;
 }
 
-.review-img {
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-radius: 50%;
-    max-height: auto;
-    max-width: 20%;
-    clear: both;
-         
-}
 
 /* Footer */
 
