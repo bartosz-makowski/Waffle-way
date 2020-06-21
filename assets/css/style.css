@@ -37,6 +37,13 @@ body {
     padding-left: 0;
 }
 
+.navbar-light .navbar-toggler {
+    border-color: black;
+}
+
+.navbar-light .navbar-toggler:focus {
+    border-color: #ec7505;
+}
 
 /* About */
 
@@ -103,7 +110,7 @@ body {
 
 
 .reviews-container p {
-    font-size: 2rem;
+    font-size: 100%;
     font-weight: bold;
 }
 
