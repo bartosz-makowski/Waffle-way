@@ -15,7 +15,7 @@ body {
     margin-top: 40px;
     margin-bottom: 30px;
     text-transform: capitalize;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .my-header i {
@@ -48,7 +48,7 @@ body {
 }
 
 .navbar-light .navbar-toggler {
-    border-color: black;
+    border-color: #000;
 }
 
 .navbar-light .navbar-toggler:focus {
@@ -76,7 +76,7 @@ body {
 }
 
 .list-group-item h4, h3 {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .right-list {
@@ -107,7 +107,7 @@ body {
 }
 
 #locations h4 {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .location-div {
@@ -121,7 +121,7 @@ body {
 
 .reviews-container p {
     font-size: 100%;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .blockquote-footer {
@@ -173,7 +173,7 @@ body {
 .my-btn {
     background-color:#ec7505;
     color: #fafafa;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .my-btn:hover {
