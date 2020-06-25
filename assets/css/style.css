@@ -82,7 +82,7 @@ body {
     font-weight: 600;
 }
 
-.list-group {
+.list-type {
     font-size: 4rem;
     font-weight: 600;
 }
@@ -92,7 +92,7 @@ body {
 }
 
 .sm-list {
-    text-align: start;
+    text-align: center;
 }
 
 .about-list li h4:hover {
