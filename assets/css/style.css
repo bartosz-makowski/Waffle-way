@@ -16,7 +16,7 @@ body {
     margin-bottom: 30px;
     text-transform: capitalize;
     font-weight: 600;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 .my-header i {
@@ -115,8 +115,17 @@ body {
     padding-top: 15px;
 }
 
-#locations h4 {
+.loc-name {
     font-weight: 600;
+    font-size: 2.8rem;
+}
+
+.loc-address {
+    font-size: 2rem;
+}
+
+.loc-time {
+    font-size: 2rem;
 }
 
 .location-div {
