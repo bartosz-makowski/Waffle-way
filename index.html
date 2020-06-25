@@ -11,45 +11,6 @@
 <title>Waffle Way</title>
 </head>
 <body>
-    <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="staticBackdropLabel">Send a contact request</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <form action="https://formdump.codeinstitute.net/" method="post">
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="name" name="name" aria-describedby="name" placeholder="Name" required>
-                        </div>
-                        <div class="form-group">
-                            <input type="email" name="email" class="form-control" id="email" aria-describedby="email" placeholder="Email" required>
-                        </div>
-                        <div class="form-group">
-                            <input type="tel" name="Contactnumber" class="form-control" id="contactnumber" placeholder="+44" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="event">Type of the event</label>
-                            <input type="text" name="typeofevent" class="form-control" id="event" placeholder="Wedding, corporate event or other" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="date">Date of the event</label>
-                            <input type="date" name="date" class="form-control" id="date" placeholder="Date of the event" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="location">Location of the event</label>
-                            <input type="text" name="location" class="form-control" id="location" placeholder="Location of the event" required>
-                        </div>
-                        <button type="submit" class="btn my-btn">Submit</button>
-                        <button type="button" class="btn my-btn" data-dismiss="modal">Close</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="container-fluid container-xl">
         <div class="row">
             <div class="col-12">
@@ -157,6 +118,45 @@
     <!---------------------->            
         </div>    
     </section>
+    <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">Send a contact request</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form action="https://formdump.codeinstitute.net/" method="post">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="name" name="name" aria-describedby="name" placeholder="Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" name="email" class="form-control" id="email" aria-describedby="email" placeholder="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="tel" name="Contactnumber" class="form-control" id="contactnumber" placeholder="+44" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="event">Type of the event</label>
+                            <input type="text" name="typeofevent" class="form-control" id="event" placeholder="Wedding, corporate event or other" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="date">Date of the event</label>
+                            <input type="date" name="date" class="form-control" id="date" placeholder="Date of the event" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="location">Location of the event</label>
+                            <input type="text" name="location" class="form-control" id="location" placeholder="Location of the event" required>
+                        </div>
+                        <button type="submit" class="btn my-btn">Submit</button>
+                        <button type="button" class="btn my-btn" data-dismiss="modal">Close</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
     <footer>
         <div class="container-fluid footer-container">
             <div class="row justify-content-center social-links">
