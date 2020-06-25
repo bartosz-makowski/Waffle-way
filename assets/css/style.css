@@ -16,6 +16,7 @@ body {
     margin-bottom: 30px;
     text-transform: capitalize;
     font-weight: 600;
+    font-size: 3rem;
 }
 
 .my-header i {
@@ -185,6 +186,8 @@ body {
     padding: 8px;
     border: 0;
     color: rgba(0,0,0,.5);
+    font-size: 1.6rem;
+    margin: -2px;
 }
 
 .nav-btn:hover {
