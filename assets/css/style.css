@@ -120,13 +120,13 @@ body {
 /* Reviews */
 
 
-.reviews-container p {
-    font-size: 100%;
-    font-weight: 600;
+.blockquote-footer {
+    font-size: 2rem;
 }
 
-.blockquote-footer {
-    font-size: 100%;
+.quote {
+    font-size: 2rem;
+    font-weight: 600;
 }
 
 /* Footer */
