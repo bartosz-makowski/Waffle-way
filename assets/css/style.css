@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
 
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
 body {
     font-family: "Open Sans", sans-serif;
     background-color: #fafafa;
-    font-size: 16px;
+    font-size: 1.6rem;
 }
 
 .my-header {
