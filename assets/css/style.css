@@ -46,6 +46,11 @@ body {
 #hero-image {
     padding-right: 0;
     padding-left: 0;
+    padding-top: 97px;
+}
+
+.navbar-light {
+    background-color: #fafafa;
 }
 
 .navbar-light .navbar-toggler {
@@ -61,6 +66,7 @@ body {
 
 
 .about-container {
+    padding-top: 89px;
     margin-bottom: 35px;
 }
 
@@ -105,6 +111,7 @@ body {
 
 
 .locations-container {
+    padding-top: 89px;
     margin-bottom: 50px;
 }
 
@@ -257,11 +264,7 @@ body {
         height: 2.3rem;
         width: 2.3rem;
     }
-}
-
-@media(max-width: 920px) {
     .social-icons {
         font-size: 1.8rem;
     }
 }
-
