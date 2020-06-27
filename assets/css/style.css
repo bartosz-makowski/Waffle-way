@@ -24,10 +24,6 @@ body {
     font-size: 4rem;
 }
 
-.gallery-header {
-    margin-top: 0;
-}
-
 
 /* Header */
 
@@ -106,6 +102,13 @@ body {
     cursor: default;
 }
 
+
+/* Gallery */
+
+.gallery-container {
+    padding-top: 89px;
+    margin-bottom: 35px;
+}
 
 /* Locations */
 
@@ -188,9 +191,6 @@ body {
 .social-icons a i:hover {
     color: #ec7505;
 }
-
-
-/* Gallery */
 
 
 /* Buttons */
