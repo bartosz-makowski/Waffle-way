@@ -277,7 +277,7 @@ body {
 
 @media(min-width: 768px) {
     .welcome {
-        bottom: 30%;
+        bottom: 50%;
     }
 
     .hero-header {
