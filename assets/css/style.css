@@ -273,6 +273,17 @@ body {
     }
 }
 
+@media(min-width: 1024px) {
+    .welcome {
+        bottom: 50%;
+        transform:(-50%, -50%);
+    }
+
+    .hero-header {
+        font-size: 4rem;
+    }
+}
+
 /* Footer */
 @media(max-width: 920px) {
     .social-icons a i {
