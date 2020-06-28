@@ -286,13 +286,16 @@ body {
     }
 }
 
-/* Footer */
+/* Footer
+
+
 @media(max-width: 920px) {
-    .social-icons a i {
-        height: 2.3rem;
-        width: 2.3rem;
+    .soc-icon {
+        height: 45px;
+        width: 45px;
     }
-    .social-icons {
-        font-size: 1.8rem;
+    .soc-icon {
+        font-size: 4rem;
     }
 }
+*/
