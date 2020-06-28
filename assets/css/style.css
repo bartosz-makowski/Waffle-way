@@ -186,26 +186,26 @@ body {
 }
 
 .social-icons {
-    font-size: 3rem;    
+    font-size: 4rem;    
 }
 
 /* taken from whiskey landing page module at CI*/
-.social-icons a i {
-    height: 3.5rem;
-    width: 3.5rem;
+.soc-icon {
+    height: 45px;
+    width: 45px;
     border-radius: 25%;
     color: #4e598c;
     background: rgba(189, 186, 186, 0.5);
-    padding-top: 5px;
+    padding-top: 3px;
 }
 /*-------------------------------*/
 
-.social-icons a i:focus {
+.soc-icon:focus {
     color: #ec7505;
     outline: none;
 }
 
-.social-icons a i:hover {
+.soc-icon:hover {
     color: #ec7505;
 }
 
