@@ -186,6 +186,13 @@ body {
     font-weight: 600;
 }
 
+.stars {
+    font-size: 4rem;
+    color: #f9c784;
+    margin-bottom: 30px; 
+}
+
+
 /* Footer */
 
 .footer-container {
