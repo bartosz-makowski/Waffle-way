@@ -176,6 +176,9 @@ body {
 
 /* Reviews */
 
+#rev-header {
+    margin-bottom: 40px;
+}
 
 .blockquote-footer {
     font-size: 2rem;
@@ -189,7 +192,7 @@ body {
 .stars {
     font-size: 4rem;
     color: #f9c784;
-    margin-bottom: 30px; 
+    margin-bottom: 40px; 
 }
 
 
