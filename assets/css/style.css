@@ -21,8 +21,8 @@ body {
 }
 
 .header-icon {
-    color:#ec7505;
     font-size: 4rem;
+    color:#ec7505;
 }
 
 
@@ -96,9 +96,9 @@ body {
 }
 
 .about-img {
-    border-radius: 50%;
     max-width: 100%;
     height: auto;
+    border-radius: 50%;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -156,8 +156,8 @@ body {
 }
 
 .loc-name {
-    font-weight: 600;
     font-size: 2.8rem;
+    font-weight: 600;
 }
 
 .loc-address {
@@ -204,8 +204,8 @@ body {
 
 /* taken from whiskey landing page module at CI*/
 .soc-icon {
-    height: 45px;
     width: 45px;
+    height: 45px;
     border-radius: 25%;
     color: #4e598c;
     background: rgba(189, 186, 186, 0.5);
@@ -228,8 +228,8 @@ body {
 .my-btn {
     background-color:#ec7505;
     color: #fafafa;
-    font-weight: 600;
     font-size: 1.6rem;
+    font-weight: 600;
 }
 
 .my-btn:hover {
