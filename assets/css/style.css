@@ -77,7 +77,14 @@ body {
 
 /* About */
 
+#about {
+    padding-top: 89px;
+    margin-bottom: 35px;
+}
 
+.about-p {
+    font-size: 3rem;
+}
 
 
 /* Why us */
