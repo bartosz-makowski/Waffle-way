@@ -78,7 +78,12 @@ body {
 /* About */
 
 
-.about-container {
+
+
+/* Why us */
+
+
+.why-container {
     padding-top: 89px;
     margin-bottom: 35px;
 }
@@ -91,7 +96,7 @@ body {
     background-repeat: no-repeat;
 }
 
-.about-list li {
+.why-list li {
     background-color: #fafafa;
     border: none;
 }
@@ -114,7 +119,7 @@ body {
     text-align: center;
 }
 
-.about-list li h4:hover {
+.why-list li h4:hover {
     color:#ec7505;
     cursor: default;
 }
