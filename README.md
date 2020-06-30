@@ -2,7 +2,7 @@
 Project of a website to promote services and products of the Waffle Way a waffle selling company.
 
 
-## Contents:
+## Contents:book:
 ### UX:superhero_man:	
   * **Project Goals** :jigsaw:	
   * **Project Goals** :jigsaw:	
