@@ -140,7 +140,7 @@ When deploying Waffle Way using GitHub Pages the following steps were made:
 * Clicked to confirm my selection.
 * Waffle Way now live on GitHub Pages. :rocket: 
 
-####Running Waffle Way Locally
+#### Running Waffle Way Locally
 
 Cloning Holiday Destinations from GitHub:
 
