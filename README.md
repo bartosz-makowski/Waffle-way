@@ -95,7 +95,7 @@ Using learned knowledge from prior research, bright and vibrant colours have a h
 The images I chose to use across the project are sourced from the owner of the Waffle Way, they showcase different types of their products.
 
 ## Wireframes: :straight_ruler:
-I built the wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a>. Started by doing a very basic wireframe for Mobile/Tablet/Desktop - these were to get a basic understanding of how structurally elements would appear on the page. You can view this wireframe in a wireframe folder.
+I built the wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a>. Started by doing a very basic wireframe for Mobile/Tablet/Desktop - these were to get a basic understanding of how structurally elements would appear on the page. You can view this wireframe in a wireframe folder [here](https://github.com/bartosz-makowski/Waffle-way/tree/master/wireframes).
 
 ## Features: :abacus:
 **Features that have been developed:**
