@@ -21,6 +21,8 @@ Project of a website to promote services and products of the Waffle Way a waffle
   * **Technologies Used** :computer:	
     * Languages
     * Tools & Libraries
+  * **Testing** :magnet:
+  * **Bugs** :mosquito:
   * **Deployment** :surfer:
   * **Acknowledgments** :clap:
   
