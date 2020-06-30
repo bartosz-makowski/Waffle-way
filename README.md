@@ -144,12 +144,12 @@ Running Waffle Way Locally
 
 Cloning Holiday Destinations from GitHub:
 
-Navigate to '/bartosz-makowski/Waffle-way'.
-Click the green 'Clone or Download' button.
-Copy the url in the dropdown box.
-Using your favourite IDE open up your preferred terminal.
-Navigate to your desired file location.
-Copy the following code and input it into your terminal to clone Waffle Way.
+* Navigate to '/bartosz-makowski/Waffle-way'.
+* Click the green 'Clone or Download' button.
+* Copy the url in the dropdown box.
+* Using your favourite IDE open up your preferred terminal.
+* Navigate to your desired file location.
+* Copy the following code and input it into your terminal to clone Waffle Way.
 
 https://github.com/bartosz-makowski/Waffle-way.git
 
