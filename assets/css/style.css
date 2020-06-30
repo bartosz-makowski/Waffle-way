@@ -140,7 +140,10 @@ body {
     margin-bottom: 35px;
 }
 
-
+.carousel {
+    width: 80%;
+    margin: 0 auto;
+}
 
 
 /* Locations */
