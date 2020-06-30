@@ -81,7 +81,7 @@ The icons used are self explanatory so that the user does not need to struggle t
 
 **Colours:**
 
-Using learned knowledge from prior research, bright and vibrant colours have a higher influence in terms of positivity and therefore more potential sales/leads and interactions. [Link to the colour palette](https://coolors.co/ec7505-fafafa-4e598c-f42b03-f9c784). Screenshot of the colour palette has been added to the wireframes folder.
+Using learned knowledge from prior research, bright and vibrant colours have a higher influence in terms of positivity and therefore more potential sales/leads and interactions. [Link to the colour palette](https://coolors.co/ec7505-fafafa-4e598c-f42b03-f9c784). Screenshot of the colour palette has been added to the wireframes folder [here](https://github.com/bartosz-makowski/Waffle-way/blob/master/wireframes/waffleway-palette.png).
 
 **Colours used:**
 * #FAFAFA baby powder - used for backgrounds
