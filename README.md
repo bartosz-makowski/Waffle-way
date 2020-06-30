@@ -125,6 +125,19 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 * <a href="https://balsamiq.com/">Balsamiq</a>
 
 ### Deployment: :surfer:
+Waffle Way was developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Waffle Way using GitHub Pages the following steps were made:
+
+* Opened up GitHub in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to 'bartosz-makowski/Waffle-way'.
+* In the top navigation clicked 'settings'.
+* Scrolled down to the GitHub Pages area.
+* Selected 'Master Branch' from the 'Source' dropdown menu.
+* Clicked to confirm my selection.
+* Waffle Way now live on GitHub Pages. :rocket: 
 
 
 ### Acknowledgments: :clap:
