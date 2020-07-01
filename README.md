@@ -1,4 +1,5 @@
 # Waffle-way :waffle:
+![Multi Device View](https://github.com/bartosz-makowski/Waffle-way/blob/master/wireframes/multiscreensview.PNG)
 Project of a website to promote services and products of the Waffle Way a waffle selling company.
 
 
