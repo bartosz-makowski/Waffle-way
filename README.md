@@ -2,7 +2,7 @@
 Project of a website to promote services and products of the Waffle Way a waffle selling company.
 
 
-## Contents:
+## Contents:book:
 ### UX:superhero_man:	
   * **Project Goals** :jigsaw:	
   * **Project Goals** :jigsaw:	
@@ -73,7 +73,7 @@ The theme of this project is *food*, therefore my design choices are heavily inf
   
 **Fonts:**
 
-I chose to use the font Open Sans as it was designed with a neutral, yet friendly appearance which compliments the general attitude of this project's design and it's desired function.  
+I chose to use the font Open Sans as it was designed with a neutral, yet friendly appearance which compliments the general attitude of this project's design and it's desired function. it can be found [here](https://fonts.google.com/specimen/Open+Sans?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Open+Sans:wght@400;600). During the development process we realised a need to place a welcome title on hero image. We choose a Dancing Script font from google fonts. It can be found [here](https://fonts.google.com/specimen/Dancing+Script?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Dancing+Script|Lobster#glyphs). This font has a friendly informal and spontaneous look that suits the website style well.
 
 **Icons:**
 
@@ -81,7 +81,7 @@ The icons used are self explanatory so that the user does not need to struggle t
 
 **Colours:**
 
-Using learned knowledge from prior research, bright and vibrant colours have a higher influence in terms of positivity and therefore more potential sales/leads and interactions. [Link to the colour palette](https://coolors.co/ec7505-fafafa-4e598c-f42b03-f9c784). Screenshot of the colour palette has been added to the wireframes folder.
+Using learned knowledge from prior research, bright and vibrant colours have a higher influence in terms of positivity and therefore more potential sales/leads and interactions. [Link to the colour palette](https://coolors.co/ec7505-fafafa-4e598c-f42b03-f9c784). Screenshot of the colour palette has been added to the wireframes folder [here](https://github.com/bartosz-makowski/Waffle-way/blob/master/wireframes/waffleway-palette.png).
 
 **Colours used:**
 * #FAFAFA baby powder - used for backgrounds
@@ -95,7 +95,7 @@ Using learned knowledge from prior research, bright and vibrant colours have a h
 The images I chose to use across the project are sourced from the owner of the Waffle Way, they showcase different types of their products.
 
 ## Wireframes: :straight_ruler:
-I built the wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a>. Started by doing a very basic wireframe for Mobile/Tablet/Desktop - these were to get a basic understanding of how structurally elements would appear on the page. You can view this wireframe in a wireframe folder.
+I built the wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a>. Started by doing a very basic wireframe for Mobile/Tablet/Desktop - these were to get a basic understanding of how structurally elements would appear on the page. You can view this wireframe in a wireframe folder [here](https://github.com/bartosz-makowski/Waffle-way/tree/master/wireframes).
 
 ## Features: :abacus:
 **Features that have been developed:**
@@ -126,6 +126,32 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 
 ### Deployment: :surfer:
 
+Waffle Way was developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Waffle Way using GitHub Pages the following steps were made:
+
+* Opened up GitHub in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to 'bartosz-makowski/Waffle-way'.
+* In the top navigation clicked 'settings'.
+* Scrolled down to the GitHub Pages area.
+* Selected 'Master Branch' from the 'Source' dropdown menu.
+* Clicked to confirm my selection.
+* Waffle Way now live on GitHub Pages. :rocket: 
+
+#### Running Waffle Way Locally
+
+Cloning Holiday Destinations from GitHub:
+
+* Navigate to '/bartosz-makowski/Waffle-way'.
+* Click the green 'Clone or Download' button.
+* Copy the url in the dropdown box.
+* Using your favourite IDE open up your preferred terminal.
+* Navigate to your desired file location.
+* Copy the following code and input it into your terminal to clone Waffle Way.
+
+https://github.com/bartosz-makowski/Waffle-way.git
 
 ### Acknowledgments: :clap:
 
