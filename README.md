@@ -142,9 +142,11 @@ During the development proces this project was tested on various browsers and de
 ### Bugs: :mosquito:
 
 #### Bug 1: :spider:
-* **Issue** During the development process after testing the page on a IPad pro in horizonthal position I noticed that footer icons were not in the center of the display.
-* **Fix** Changing the footer to class="container fixed this issue
+* **Issue:** During the development process after testing the page on a IPad pro in horizonthal position I noticed that footer icons were not in the center of the display.
+* **Fix:** Changing the footer to class="container fixed this issue
 
+#### Known bugs: :ant:
+* **Issue:** On small screens after pressing burger icon navbar links are partially covering the section headers.
 
 ### Deployment: :surfer:
 
