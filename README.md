@@ -73,7 +73,7 @@ The theme of this project is *food*, therefore my design choices are heavily inf
   
 **Fonts:**
 
-I chose to use the font Open Sans as it was designed with a neutral, yet friendly appearance which compliments the general attitude of this project's design and it's desired function. it can be found [here](https://fonts.google.com/specimen/Open+Sans?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Open+Sans:wght@400;600). During the development process we realised a need to place a welcome title on hero image. We choose a Dancing Script font from google fonts. It can be found [here](https://fonts.google.com/specimen/Dancing+Script?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Dancing+Script|Lobster#glyphs). This font has a friendly informal and spontaneous look that suits the website style well.
+I chose to use the font **Open Sans** as it was designed with a neutral, yet friendly appearance which compliments the general attitude of this project's design and it's desired function. it can be found [here](https://fonts.google.com/specimen/Open+Sans?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Open+Sans:wght@400;600). During the development process we realised a need to place a welcome title on hero image. We choose a **Dancing Script** font from google fonts. It can be found [here](https://fonts.google.com/specimen/Dancing+Script?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Dancing+Script|Lobster#glyphs). This font has a friendly informal and spontaneous look that suits the website style well.
 
 **Icons:**
 
