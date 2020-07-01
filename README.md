@@ -146,6 +146,10 @@ During the development proces this project was tested on various browsers and de
 * **Issue:** During the development process after testing the page on a IPad pro in horizonthal position I noticed that footer icons were not in the center of the display.
 * **Fix:** Changing the footer to class="container fixed this issue
 
+#### Bug 2: :bug:
+* **Issue:** Images in the carousel element were too large.
+* **Fix:** Changing a width property of .carousel fixed this issue and made it more responsive on smaller screens.
+
 #### Known bugs: :ant:
 * **Issue:** On small screens after pressing burger icon navbar links are partially covering the section headers.
 
