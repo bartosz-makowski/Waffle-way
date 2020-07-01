@@ -124,6 +124,8 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 * <a href="https://developers.google.com/maps/documentation/javascript/tutorial">Google Maps</a>
 * <a href="https://fonts.google.com/">Google Fonts</a>
 * <a href="https://balsamiq.com/">Balsamiq</a>
+* <a href="https://picresize.com/">Picresize</a>
+
 
 ### Testing: :magnet:
 
