@@ -24,7 +24,7 @@ Project of a website to promote services and products of the Waffle Way a waffle
   * **Testing** :magnet:
   * **Bugs** :mosquito:
   * **Deployment** :surfer:
-  * **Acknowledgments** :clap:
+  * **Acknowledgements** :clap:
   
 ## UX ( User Experience)
 ### Project Goals :jigsaw:	
