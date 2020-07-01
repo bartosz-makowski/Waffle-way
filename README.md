@@ -124,11 +124,16 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 * <a href="https://fonts.google.com/">Google Fonts</a>
 * <a href="https://balsamiq.com/">Balsamiq</a>
 
-### Testing :magnet:
+### Testing: :magnet:
 
 #### Plan:
-During planning of this projcet it was certain I had to have a thorough testing plan in place. Thanks to organising the concept in the wireframes I was able to selcet which feature to work on. This allowed me to thoroughly test the implementation of each feature before moving on to the next task. The utilisation of developer tools in Google Chrome allowed me to test each feature and its behaviour on a different screen sizes.
-During the development proces this project was tested on various browsers and devices such as Chrome - desktop and mobile, Microsoft Edge - desktop, Mozilla Firefox - desktop, Safari - IPad Pro 9.7 and IPhone XS & 8, Brave - mobile app Samsung S8, 
+During planning of this project it was certain I had to have a thorough testing plan in place. Thanks to organising the concept in the wireframes I was able to selcet which feature to work on. This allowed me to thoroughly test the implementation of each feature before moving on to the next task. The utilisation of developer tools in Google Chrome allowed me to test each feature and its behaviour on a different screen sizes.
+During the development proces this project was tested on various browsers and devices such as Chrome - desktop and mobile, Microsoft Edge - desktop, Mozilla Firefox - desktop, Safari - IPad Pro 9.7 and IPhone XS & 8, Brave - mobile app Samsung S8.
+
+#### Tests
+##### Using W3C Markup Validator:
+* **Error:** The first child option element of a select element with a required attribute, and without a multiple attribute, and without a size attribute whose value is greater than 1, must have either an empty value attribute, or must have no text content. Consider either adding a placeholder option label, or adding a size attribute with a value equal to the number of option elements.
+* **Solution:** Adding ```<option value="">Event type</option>``` as a first child element of a **select** element fixed this problem.
 
 
 ### Deployment: :surfer:
