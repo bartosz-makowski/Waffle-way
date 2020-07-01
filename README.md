@@ -185,7 +185,7 @@ Cloning Holiday Destinations from GitHub:
 
 https://github.com/bartosz-makowski/Waffle-way.git
 
-### Acknowledgments: :clap:
+### Acknowledgements: :clap:
 
 #### Thanks to:
 * My mentor Simen Dehlin for support and priceless feedback regarding this project and allowing me to use his boiler plate !bcdn in gitpod
