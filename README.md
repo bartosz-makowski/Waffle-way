@@ -132,8 +132,12 @@ During the development proces this project was tested on various browsers and de
 
 #### Tests
 ##### Using W3C Markup Validator:
+###### Test 1
 * **Error:** The first child option element of a select element with a required attribute, and without a multiple attribute, and without a size attribute whose value is greater than 1, must have either an empty value attribute, or must have no text content. Consider either adding a placeholder option label, or adding a size attribute with a value equal to the number of option elements.
 * **Solution:** Adding ```<option value="">Event type</option>``` as a first child element of a **select** element fixed this problem.
+###### Test 2
+* **Warning:** The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill
+* **Solution** this input type is quite new and is not supported by older web browsers, however we decided to keep it in this form.
 
 
 ### Deployment: :surfer:
