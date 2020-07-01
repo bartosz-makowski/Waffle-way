@@ -127,6 +127,7 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 * <a href="https://balsamiq.com/">Balsamiq</a>
 * <a href="https://picresize.com/">Picresize</a>
 * <a href="https://realfavicongenerator.net/">Favicon generator</a>
+* <a href="http://ami.responsivedesign.is/"> AmIresponsive</a> - used to generate multi screen view of the webiste on different devices
 
 
 ### Testing: :magnet:
