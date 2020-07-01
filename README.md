@@ -1,4 +1,4 @@
-# Waffle-way :cake:
+# Waffle-way :waffle:
 Project of a website to promote services and products of the Waffle Way a waffle selling company.
 
 
