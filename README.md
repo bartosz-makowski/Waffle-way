@@ -139,6 +139,12 @@ During the development proces this project was tested on various browsers and de
 * **Warning:** The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill
 * **Solution** this input type is quite new and is not supported by older web browsers, however we decided to keep it in this form.
 
+### Bugs: :mosquito:
+
+#### Bug 1: :spider:
+* **Issue** During the development process after testing the page on a IPad pro in horizonthal position I noticed that footer icons were not in the center of the display.
+* **Fix** Changing the footer to class="container fixed this issue
+
 
 ### Deployment: :surfer:
 
