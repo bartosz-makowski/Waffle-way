@@ -182,6 +182,11 @@ body {
 
 /* Reviews */
 
+#reviews {
+    padding-top: 89px;
+    margin-bottom: 35px;
+}
+
 #rev-header {
     margin-bottom: 40px;
 }
