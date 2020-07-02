@@ -167,10 +167,10 @@ When deploying Waffle Way using GitHub Pages the following steps were made:
 * Opened up GitHub in the browser.
 * Signed in using username and password.
 * Selected my repositories.
-* Navigated to 'bartosz-makowski/Waffle-way'.
-* In the top navigation clicked 'settings'.
+* Navigated to ``bartosz-makowski/Waffle-way``.
+* In the top navigation clicked **'settings'**.
 * Scrolled down to the GitHub Pages area.
-* Selected 'Master Branch' from the 'Source' dropdown menu.
+* Selected **'Master Branch'** from the **'Source'** dropdown menu.
 * Clicked to confirm my selection.
 * Waffle Way now live on GitHub Pages. :rocket: 
 
@@ -178,8 +178,8 @@ When deploying Waffle Way using GitHub Pages the following steps were made:
 
 Cloning Holiday Destinations from GitHub:
 
-* Navigate to '/bartosz-makowski/Waffle-way'.
-* Click the green 'Clone or Download' button.
+* Navigate to ``/bartosz-makowski/Waffle-way``.
+* Click the green **'Clone or Download'** button.
 * Copy the url in the dropdown box.
 * Using your favourite IDE open up your preferred terminal.
 * Navigate to your desired file location.
