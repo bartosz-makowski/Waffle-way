@@ -62,7 +62,7 @@ body {
 }
 
 .navbar-nav {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
 }
 
 .navbar-light {
@@ -325,6 +325,6 @@ body {
 
 @media(min-width:1440px) {
     .nav-item {
-        font-size: 2.5rem;
+        font-size: 2.7rem;
     }
 }
