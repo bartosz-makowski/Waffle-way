@@ -1,4 +1,5 @@
 # Waffle-way :waffle:
+![Multi Device View](https://github.com/bartosz-makowski/Waffle-way/blob/master/wireframes/multiscreensview.PNG)
 Project of a website to promote services and products of the Waffle Way a waffle selling company.
 
 
@@ -40,7 +41,7 @@ The goal of this project is to inform users of where to find the locations where
 * Links to social platforms
 * Interact with the website on both Desktop tablet and mobile
 
-## User stories: 	:dart:
+## User stories 	:dart:
 * As a user I expect to be able to quickly find the locations and opening times where I can purchase the product
 * As a user I want to be able to read reviews and see photos of the product before I decide to make a purchase
 * As a user I want to be able to get in touch with the business to ask questions about hiring them
@@ -48,14 +49,14 @@ The goal of this project is to inform users of where to find the locations where
 * As a user I expect to know where on the page I currently am while browsing
 * As a user I expet to easily understand the main purpose of the site and learn more about the organisation.
 
-## Site Owner Goals: 	:dart:
+## Site Owner Goals	:dart:
 
 * Improve brand recognition in the local area
 * Advertise their product and services
 * Receive contact details through use of contact form
 * Expose the bussines to cooperation opportunities
 
-## User Requirements and Expectations: 	:dart:
+## User Requirements and Expectations 	:dart:
 
 * **Requirements**
   * Navigate the website using the navbar/pop-out nav
@@ -68,74 +69,75 @@ The goal of this project is to inform users of where to find the locations where
   * Navigation takes user to specific parts of the website
   * Burger menu button appeares in place of navbar on tablet and mobile devices
   
-## Design choices: :framed_picture:	
+## Design choices :framed_picture:	
 The theme of this project is *food*, therefore my design choices are heavily influenced by positive colours and motifs. Using the resources in [this blog](https://www.crazyegg.com/blog/colors-proven-to-boost-sales/) I was able to pick out a colour scheme that has been proven to boost sales/interaction with a web page. By using [this webpage](https://coolors.co/) I was able to macth colors for this projcet.
   
-**Fonts:**
+**Fonts**
 
 I chose to use the font **Open Sans** as it was designed with a neutral, yet friendly appearance which compliments the general attitude of this project's design and it's desired function. it can be found [here](https://fonts.google.com/specimen/Open+Sans?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Open+Sans:wght@400;600). During the development process we realised a need to place a welcome title on hero image. We choose a **Dancing Script** font from google fonts. It can be found [here](https://fonts.google.com/specimen/Dancing+Script?preview.text=welcome+to+waffle+way+&preview.text_type=custom&sidebar.open&selection.family=Dancing+Script|Lobster#glyphs). This font has a friendly informal and spontaneous look that suits the website style well.
 
-**Icons:**
+**Icons**
 
 The icons used are self explanatory so that the user does not need to struggle to interpret what the icon will actually mean. I use the icon ‘bars’ from font-awesome icons, to display the classic ‘burger-button’ on tablet and mobile devices.
 
-**Colours:**
+**Colours**
 
 Using learned knowledge from prior research, bright and vibrant colours have a higher influence in terms of positivity and therefore more potential sales/leads and interactions. [Link to the colour palette](https://coolors.co/ec7505-fafafa-4e598c-f42b03-f9c784). Screenshot of the colour palette has been added to the wireframes folder [here](https://github.com/bartosz-makowski/Waffle-way/blob/master/wireframes/waffleway-palette.png).
 
-**Colours used:**
+**Colours used**
 * #FAFAFA baby powder - used for backgrounds
 * #EC7505 princeton orange
 * #4E598C purple navy
 * #F42B03 scarlet
 * #F9C784 gold crayola
 
-**Images:**
+**Images**
 
 The images I chose to use across the project are sourced from the owner of the Waffle Way, they showcase different types of their products.
 During the development process we found the need for additional images with better quality, these were downloaded from free image source at [Unsplash](https://unsplash.com/s/photos/waffles) 
 
-## Wireframes: :straight_ruler:
+## Wireframes :straight_ruler:
 I built the wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a>. Started by doing a very basic wireframe for Mobile/Tablet/Desktop - these were to get a basic understanding of how structurally elements would appear on the page. You can view this wireframe in a wireframe folder [here](https://github.com/bartosz-makowski/Waffle-way/tree/master/wireframes).
 
-## Features: :abacus:
+## Features :abacus:
 **Features that have been developed:**
 * Sliding Modal
 * Visible feedback when hover over buttons, links and icons
 * Contact form
 
-**Features to be implemented in the future:**
+**Features to be implemented in the future**
 * Blog
 * Interactive google maps of the locations
 
-## Technologies Used: :computer:
+## Technologies Used :computer:
 
-### Languages:
-* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
-* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
-* <a href="https://www.w3schools.com/js/">JavaScript</a>
+### Languages
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://www.w3schools.com/js/)
 
-### Tools & Libraries:
-* <a href="https://popper.js.org/">PopperJS</a>
-* <a href="https://jquery.com/">jQuery</a>
-* <a href="https://git-scm.com/">Git</a>
-* <a href="https://getbootstrap.com/">Bootstrap</a>
-* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
-* <a href="https://developers.google.com/maps/documentation/javascript/tutorial">Google Maps</a>
-* <a href="https://fonts.google.com/">Google Fonts</a>
-* <a href="https://balsamiq.com/">Balsamiq</a>
-* <a href="https://picresize.com/">Picresize</a>
-* <a href="https://realfavicongenerator.net/">Favicon generator</a>
+### Tools & Libraries
+* [PopperJS](https://popper.js.org/)
+* [jQuery](https://jquery.com/)
+* [Git](https://git-scm.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google Maps](https://www.google.com/maps/)
+* [Google Fonts](https://fonts.google.com/)
+* [Balsamiq](https://balsamiq.com/)
+* [Picresize](https://picresize.com/)
+* [Favicon generator](https://realfavicongenerator.net/)
+* [AmIresponsive](http://ami.responsivedesign.is/) - used to generate multi screen view of the webiste on different devices
 
 
-### Testing: :magnet:
+### Testing :magnet:
 
-#### Plan:
+#### Plan
 During planning of this project it was certain I had to have a thorough testing plan in place. Thanks to organising the concept in the wireframes I was able to selcet which feature to work on. This allowed me to thoroughly test the implementation of each feature before moving on to the next task. The utilisation of developer tools in Google Chrome allowed me to test each feature and its behaviour on a different screen sizes.
 During the development proces this project was tested on various browsers and devices such as Chrome - desktop and mobile, Microsoft Edge - desktop, Mozilla Firefox - desktop, Safari - IPad Pro 9.7 and IPhone XS & 8, Brave - mobile app Samsung S8.
 
 #### Tests
-##### Using W3C Markup Validator:
+##### Using W3C Markup Validator
 ###### Test 1
 * **Error:** The first child option element of a select element with a required attribute, and without a multiple attribute, and without a size attribute whose value is greater than 1, must have either an empty value attribute, or must have no text content. Consider either adding a placeholder option label, or adding a size attribute with a value equal to the number of option elements.
 * **Solution:** Adding ```<option value="">Event type</option>``` as a first child element of a **select** element fixed this problem.
@@ -143,20 +145,20 @@ During the development proces this project was tested on various browsers and de
 * **Warning:** The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill
 * **Solution** this input type is quite new and is not supported by older web browsers, however we decided to keep it in this form.
 
-### Bugs: :mosquito:
+### Bugs :mosquito:
 
-#### Bug 1: :spider:
+#### Footer alignment :spider:
 * **Issue:** During the development process after testing the page on a IPad pro in horizonthal position I noticed that footer icons were not in the center of the display.
-* **Fix:** Changing the footer to class="container fixed this issue
+* **Fix:** Changing the footer - gavr the footer a ``class="container"``
 
-#### Bug 2: :bug:
+#### Carousel imgs too large :bug:
 * **Issue:** Images in the carousel element were too large.
-* **Fix:** Changing a width property of .carousel fixed this issue and made it more responsive on smaller screens.
+* **Fix:** Changing a **width** property of **.carousel** fixed this issue and made it more responsive on smaller screens.
 
-#### Known bugs: :ant:
+#### Known bugs :ant:
 * **Issue:** On small screens after pressing burger icon navbar links are partially covering the section headers.
 
-### Deployment: :surfer:
+### Deployment :surfer:
 
 Waffle Way was developed on GitPod, using git and GitHub to host the repository.
 
@@ -182,13 +184,13 @@ Cloning Holiday Destinations from GitHub:
 * Using your favourite IDE open up your preferred terminal.
 * Navigate to your desired file location.
 * Copy the following code and input it into your terminal to clone Waffle Way.
-
+```
 https://github.com/bartosz-makowski/Waffle-way.git
+```
+### Acknowledgements :clap:
 
-### Acknowledgements: :clap:
-
-#### Thanks to:
-* My mentor Simen Dehlin for support and priceless feedback regarding this project and allowing me to use his boiler plate !bcdn in gitpod
+#### Thanks to
+* My mentor [Eventyret](www.github.com/Eventyret) for support and priceless feedback regarding this project and allowing me to use his boilerplate [!bcdn](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
 * Unsplash community for providing fantastic images free of charge
 * Whiskey drop module that inspired my review section and CSS styling for footer social icons in this project
 
