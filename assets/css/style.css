@@ -102,7 +102,7 @@ body {
     background-repeat: no-repeat;
 }
 
-.why-list li {
+.list-group-item {
     background-color: #fafafa;
     border: none;
 }
@@ -126,7 +126,7 @@ body {
     text-align: center;
 }
 
-.why-list li h4:hover {
+.list-item:hover {
     color:#ec7505;
     cursor: default;
 }
