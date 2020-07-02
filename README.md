@@ -190,7 +190,7 @@ https://github.com/bartosz-makowski/Waffle-way.git
 ### Acknowledgements: :clap:
 
 #### Thanks to:
-* My mentor Simen Dehlin for support and priceless feedback regarding this project and allowing me to use his boiler plate !bcdn in gitpod
+* My mentor [Eventyret](www.github.com/Eventyret) for support and priceless feedback regarding this project and allowing me to use his boilerplate [!bcdn](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
 * Unsplash community for providing fantastic images free of charge
 * Whiskey drop module that inspired my review section and CSS styling for footer social icons in this project
 
