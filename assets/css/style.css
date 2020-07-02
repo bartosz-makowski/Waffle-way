@@ -13,7 +13,7 @@ body {
 
 .my-header {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 4rem;
     margin-bottom: 80px;
     text-transform: capitalize;
     font-weight: 600;
@@ -43,13 +43,13 @@ body {
     position: relative;
     padding-right: 0;
     padding-left: 0;
-    padding-top: 97px;
+    padding-top: 9.7rem;
 }
 
 .welcome {
     position: absolute;
     width: 100%;
-    bottom: 10px;
+    bottom: 1rem;
     background-color: rgba(0,0,0,.3);
 }
 
@@ -78,8 +78,8 @@ body {
 /* About */
 
 #about {
-    padding-top: 89px;
-    margin-bottom: 35px;
+    padding-top: 8.9rem;
+    margin-bottom: 3.5rem;
 }
 
 .about-p {
@@ -91,8 +91,8 @@ body {
 
 
 .why-container {
-    padding-top: 89px;
-    margin-bottom: 35px;
+    padding-top: 8.9rem;
+    margin-bottom: 3.5rem;
 }
 
 .about-img {
@@ -136,8 +136,8 @@ body {
 /* Gallery */
 
 .gallery-container {
-    padding-top: 89px;
-    margin-bottom: 35px;
+    padding-top: 8.9rem;
+    margin-bottom: 3.5rem;
 }
 
 .carousel {
@@ -150,15 +150,15 @@ body {
 
 
 .locations-container {
-    padding-top: 89px;
-    margin-bottom: 50px;
+    padding-top: 8.9rem;
+    margin-bottom: 5rem;
 }
 
 .img-locations {
     max-width: 100%;
-    max-height: 200px;
+    max-height: 20rem;
     border-radius: 17%;
-    padding-top: 15px;
+    padding-top: 1.5rem;
 }
 
 .loc-name {
@@ -176,19 +176,19 @@ body {
 
 .location-div {
     text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 3rem;
 }
 
 
 /* Reviews */
 
 #reviews {
-    padding-top: 89px;
-    margin-bottom: 35px;
+    padding-top: 8.9rem;
+    margin-bottom: 3.5rem;
 }
 
 #rev-header {
-    margin-bottom: 40px;
+    margin-bottom: 4rem;
 }
 
 .blockquote-footer {
@@ -203,14 +203,14 @@ body {
 .stars {
     font-size: 4rem;
     color: #f9c784;
-    margin-bottom: 40px; 
+    margin-bottom: 4rem; 
 }
 
 
 /* Footer */
 
 .footer-container {
-    margin-top: 35px;
+    margin-top: 3.5rem;
     margin-bottom: 20px;
 }
 
@@ -225,8 +225,8 @@ body {
 
 /* taken from whiskey landing page module at CI*/
 .soc-icon {
-    width: 45px;
-    height: 45px;
+    width: 4.5rem;
+    height: 4.5rem;
     border-radius: 25%;
     color: #4e598c;
     background: rgba(189, 186, 186, 0.5);
@@ -259,7 +259,7 @@ body {
 }
 
 .nav-btn {
-    padding: 8px;
+    padding: 0.8rem;
     border: 0;
     color: rgba(0,0,0,.5);
     font-size: 1.6rem;
@@ -305,7 +305,7 @@ body {
 
 @media(max-width: 767px) {
     .nav-btn {
-        padding: 8px 0;
+        padding: 0.8rem 0;
     }
 }
 
