@@ -112,22 +112,22 @@ I built the wireframes for this project using <a href="https://balsamiq.com/">Ba
 ## Technologies Used: :computer:
 
 ### Languages:
-* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
-* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
-* <a href="https://www.w3schools.com/js/">JavaScript</a>
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://www.w3schools.com/js/)
 
 ### Tools & Libraries:
-* <a href="https://popper.js.org/">PopperJS</a>
-* <a href="https://jquery.com/">jQuery</a>
-* <a href="https://git-scm.com/">Git</a>
-* <a href="https://getbootstrap.com/">Bootstrap</a>
-* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
-* <a href="https://developers.google.com/maps/documentation/javascript/tutorial">Google Maps</a>
-* <a href="https://fonts.google.com/">Google Fonts</a>
-* <a href="https://balsamiq.com/">Balsamiq</a>
-* <a href="https://picresize.com/">Picresize</a>
-* <a href="https://realfavicongenerator.net/">Favicon generator</a>
-* <a href="http://ami.responsivedesign.is/"> AmIresponsive</a> - used to generate multi screen view of the webiste on different devices
+* [PopperJS](https://popper.js.org/)
+* [jQuery](https://jquery.com/)
+* [Git](https://git-scm.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google Maps](https://www.google.com/maps/)
+* [Google Fonts](https://fonts.google.com/)
+* [Balsamiq](https://balsamiq.com/)
+* [Picresize](https://picresize.com/)
+* [Favicon generator](https://realfavicongenerator.net/)
+* [AmIresponsive](http://ami.responsivedesign.is/) - used to generate multi screen view of the webiste on different devices
 
 
 ### Testing: :magnet:
