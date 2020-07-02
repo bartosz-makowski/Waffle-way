@@ -145,15 +145,15 @@ During the development proces this project was tested on various browsers and de
 * **Warning:** The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill
 * **Solution** this input type is quite new and is not supported by older web browsers, however we decided to keep it in this form.
 
-### Bugs: :mosquito:
+### Bugs :mosquito:
 
-#### Bug 1: :spider:
+#### Footer alignment :spider:
 * **Issue:** During the development process after testing the page on a IPad pro in horizonthal position I noticed that footer icons were not in the center of the display.
-* **Fix:** Changing the footer to class="container fixed this issue
+* **Fix:** Changing the footer - gavr the footer a ``class="container"``
 
 #### Bug 2: :bug:
 * **Issue:** Images in the carousel element were too large.
-* **Fix:** Changing a width property of .carousel fixed this issue and made it more responsive on smaller screens.
+* **Fix:** Changing a **width** property of **.carousel** fixed this issue and made it more responsive on smaller screens.
 
 #### Known bugs: :ant:
 * **Issue:** On small screens after pressing burger icon navbar links are partially covering the section headers.
@@ -184,9 +184,9 @@ Cloning Holiday Destinations from GitHub:
 * Using your favourite IDE open up your preferred terminal.
 * Navigate to your desired file location.
 * Copy the following code and input it into your terminal to clone Waffle Way.
-
+```
 https://github.com/bartosz-makowski/Waffle-way.git
-
+```
 ### Acknowledgements: :clap:
 
 #### Thanks to:
